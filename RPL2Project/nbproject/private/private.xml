@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/view/reporttb1.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/controller/BarangController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/configuration.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/jdbc.properties</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/model/Barang.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/dao/BarangDAO.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/view/BarangView.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/dao/BarangDAOImpl.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/service/BarangServiceImpl.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/config/BarangTableModel.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/service/BarangService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/com/labti/springHibernate/app.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/spring-configuration.xml</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/BelajarSpringHibernate/src/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
